@@ -24,6 +24,13 @@
         file="xml/misc/HDbucket.xml" />
 
     <configuration
+        vehicle="FS25_Hirschfeld_Volvo_Radlader_Pack_by_HIP_Marco/xml/l120HHighTipShovel.xml"
+        file="xml/misc/Hirschfeld_l120HHighTipShovel.xml" />
+    <configuration
+        vehicle="FS25_Hirschfeld_Volvo_Radlader_Pack_by_HIP_Marco/xml/l180HHighTipShovel.xml"
+        file="xml/misc/Hirschfeld_l180HHighTipShovel.xml" />
+
+    <configuration
         vehicle="FS25_ExcavatorAttachments/bucket.xml"
         file="xml/misc/ExcavatorAttachments_bucket.xml" />
 
