@@ -11,6 +11,7 @@ FS25_ExcavatorAttachments
 FS25_Excavator_Tools
 FS25_FiatAllisAD9
 FS25_gjerstadPack
+FS25_HirschfeldSKS
 FS25_Hirschfeld_Volvo_Radlader_Pack_by_HIP_Marco
 FS25_JCB714
 FS25_JCBBackhoeLoader

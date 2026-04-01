@@ -20,6 +20,10 @@
 
     <!-- Misc. -->
     <configuration
+        vehicle="FS25_HirschfeldSKS/sks30_150.xml"
+        file="xml/misc/HirschfeldSKS_sks30_150.xml" />
+
+    <configuration
         vehicle="FS25_Excavator_Tools/HDbucket.xml"
         file="xml/misc/HDbucket.xml" />
 
