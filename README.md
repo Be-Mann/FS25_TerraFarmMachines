@@ -36,6 +36,7 @@ Case CX35B
 Doosan DX225LC
 D6T2
 D6T2U
+Hirschfeld SKS 3in1
 Hirschfeld Volvo Radlader Pack (l120H & l180H High Tip Shovel)
 JD135C
 JohnDeere 650K
